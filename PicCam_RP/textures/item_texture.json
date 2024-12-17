@@ -1,0 +1,11 @@
+{
+  "resource_pack_name": "Goo Resource Pack",
+  "texture_data": {
+    "camera": {
+      "textures": "textures/items/Camera"
+    },
+    "camera_lock": {
+      "textures": "textures/items/Camera_lock"
+    }
+  }
+}

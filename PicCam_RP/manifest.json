@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "made by Ezilys ",
+    "name": "PicCam Addon",
+    "uuid": "ca4997a4-7f72-4db8-b7ca-ca94d91d72c9",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 21, 40]
+  },
+  "modules": [
+    {
+      "description": "Example vanilla resources pack",
+      "type": "resources",
+      "uuid": "f877d246-a7d9-4346-ba7f-43d39eee8165",
+      "version": [0, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "384d4433-aebf-4b98-a7ae-dbff0e290f34",
+      "version": [0, 0, 1]
+    }
+  ],
+  "metadata": {
+    "authors": ["Ezilys"],
+    "url": "https://www.facebook.com/rct.khumjun.1"
+  }
+}
